@@ -11,4 +11,5 @@
 
     <import resource="spring-mvc.xml"></import>
     <import resource="spring-mybatis.xml"></import>
+    <import resource="spring-rabbitmq.xml"></import>
 </beans>
